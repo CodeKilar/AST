@@ -1,0 +1,8 @@
+import a
+from .b import c
+
+def main():
+	p1 = "this is a str"
+	p2 = 1
+	p3 = []
+	p4 = {}
